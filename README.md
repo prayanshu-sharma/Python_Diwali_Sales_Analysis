@@ -2,8 +2,9 @@
 # Project Overview 
 # Python Project
 
-project title- python diwali sales analysis 
-level-beginner
+Project Title- python diwali sales analysis 
+
+Level-beginner
 
 
 Tool-Jupyter Notebook
