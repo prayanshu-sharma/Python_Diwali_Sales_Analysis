@@ -1,11 +1,21 @@
 # Python_Diwali_Sales_Analysis
-# Python
+# Project Overview 
+# Python Project
+
+project title- python diwali sales analysis 
+level-beginner
+
+
 Tool-Jupyter Notebook
 
 Library-Pandas,Seaborn,Matplotlib
 
 
-Python project for beginners-        Analyze Diwali sales data to improve customer experience and sales and also increase revenue based on customer and sales.
+Python project for beginners-  
+
+# Objective
+
+Analyze Diwali sales data to improve customer experience and sales and also increase revenue based on customer and sales.
 
 
 performed data cleaning and manipulation
