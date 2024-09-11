@@ -1,16 +1,14 @@
 # Python_Diwali_Sales_Analysis
-# Project Overview 
+
 # Python Project
 
 Project Title- python diwali sales analysis 
 
 Level-beginner
 
-
 Tool-Jupyter Notebook
 
 Library-Pandas,Seaborn,Matplotlib
-
 
 Python project for beginners-  
 
